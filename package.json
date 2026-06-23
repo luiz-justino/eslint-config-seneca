@@ -29,5 +29,8 @@
   "peerDependencies": {
     "eslint-plugin-hapi": "x.x.x",
     "eslint-plugin-standard": "x.x.x"
+  },
+  "scripts": {
+    "test": "echo \"no tests\""
   }
 }
