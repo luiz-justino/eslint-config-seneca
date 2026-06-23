@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-seneca",
+  "name": "@seneca/eslint-config",
   "version": "3.0.0",
   "description": "ESLint config for seneca",
   "license": "MIT",
